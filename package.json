@@ -1,0 +1,33 @@
+{
+  "name": "connormckenna-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "connor",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
+
+{
+  "name": "Connor McKenna",
+  "website": "https://github.com/contheflan",
+  "linkedin": "https://www.linkedin.com/in/connor-mckenna-84687298/",
+  "github": "contheflan",
+  "email": "connormckenna2654@gmail.com",
+  "resume": "",
+  "proficientTechnologies": [
+    "Javascript",
+    "HTML",
+    "CSS"
+  ],
+  "otherSkills": [
+    "Filmmaking",
+    "Painting",
+    "3d Printing"
+  ]
+}
